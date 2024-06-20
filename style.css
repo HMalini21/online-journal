@@ -79,11 +79,43 @@ button {
   padding: 5px;
   height: 85px;
 }
-.dairy-container {
+.grid-container {
   margin-top: 40px;
+  display: grid;
+  display: flex;
 }
 .dairy-PG {
-  background-color: rgba(0, 0, 0, 0.5);
+  width: 300px;
+  border-radius: 5px;
+  margin-left: 100px;
+  height: 100%;
+}
 
-  width: 500px;
+.top-div {
+  display: flex;
+  justify-content: space-between;
+  background-color: #c7c3fe;
+  font-size: small;
+}
+
+.mid-div {
+  font-size: small;
+  color: #8676d8;
+  background-color: white;
+}
+
+.btm-div {
+  background-color: #c4c0fa;
+}
+
+.bd-rd {
+  border-color: #e48ec5;
+  border-style: solid;
+}
+
+.bd-rd-bt {
+  border-bottom: solid #e48ec5;
+}
+.p-2 {
+  padding: 4px;
 }
