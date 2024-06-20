@@ -1,0 +1,89 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./assesets/preview1.jpg);
+  font-family: cursive;
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.form-div {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 7px;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.JD-form {
+  /* background-color: #ffb0b0; */
+
+  margin-top: 30px;
+  width: 465px;
+  border-radius: 10px;
+  height: 260px;
+  text-align: center;
+}
+
+.cont-div {
+  padding-top: 15px;
+}
+
+.cont-div label {
+  color: wheat;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  width: 50px;
+  padding: 3px;
+  background-color: #eef296;
+  font-family: cursive;
+}
+.enter-box {
+  border: none;
+  width: 169px;
+  background-color: beige;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+.big-textarea {
+  gap: 10px;
+  display: flex;
+  padding-top: 15px;
+}
+.big-textarea label {
+  margin-left: 111px;
+  width: 79px;
+  color: wheat;
+}
+
+#big-textbox {
+  border: none;
+  font-size: small;
+  width: 169px;
+  background-color: beige;
+  border-radius: 6px;
+  padding: 5px;
+  height: 85px;
+}
+.dairy-container {
+  margin-top: 40px;
+}
+.dairy-PG {
+  background-color: rgba(0, 0, 0, 0.5);
+
+  width: 500px;
+}
