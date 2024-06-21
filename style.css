@@ -48,7 +48,7 @@ button {
   border: none;
   width: 50px;
   padding: 3px;
-  background-color: #eef296;
+  background-color: #e693a3;
   font-family: cursive;
 }
 .enter-box {
@@ -83,11 +83,13 @@ button {
   margin-top: 40px;
   display: grid;
   display: flex;
+  padding: 20px;
+  gap: 30px;
 }
 .dairy-PG {
   width: 300px;
   border-radius: 5px;
-  margin-left: 100px;
+
   height: 100%;
 }
 
